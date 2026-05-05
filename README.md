@@ -20,11 +20,11 @@ Projekt skupiał się na budowie modelu ekonometrycznego wyjaśniającego zmiany
 Analiza kwartalnych szeregów czasowych cen sprzedaży złota przy użyciu metod wygładzania wykładniczego.
 * **Metodyka:** Wykorzystanie modelu Holta oraz regresji analitycznej do wyznaczenia trendu.
 * **Kluczowe metryki:** Walidacja modelu poprzez analizę błędów ex-ante i wariancji resztkowej (średni błąd względny na poziomie 8,24%).
-* [Pobierz dokument z projektem](./projekt%20aipsc.docx)
+*  [Pobierz arkusz Excel (modele, Solver, wskaźniki błędów)](./natalia%20then%20projekt%20aipsc.xlsx)
 
 ### Certyfikaty
 * **Microsoft:** T-SQL (Transact-SQL).
 * **Microsoft:** Power Platform & Business Value.
 * **Microsoft Fabric:** AI & Real-time Data Insights.
 
-📫 **Kontakt:** [LinkedIn](https://www.linkedin.com/in/natalia-then-b177312a8) | natalia.then4@gmail.com
+ **Kontakt:** [LinkedIn](https://www.linkedin.com/in/natalia-then-b177312a8) | natalia.then4@gmail.com
