@@ -12,7 +12,7 @@ Dzięń dobry ! Jestem absolwentką Analityki Biznesowej (obrona: lipiec 2026) z
 ### 1. Modelowanie Demograficzne i Ekonomiczne (USA 1960-1995)
 * **Cel:** Wyjaśnienie i prognozowanie zmian populacji USA w oparciu o wskaźniki makroekonomiczne.
 * **Narzędzia:** Gretl.
-* **Kluczowe wyniki:** Zbudowano model o bardzo wysokim dopasowaniu ($R^2 = 0.997$). Przeprowadzono pełną diagnostykę statystyczną, w tym testy na homoskedastyczność (White'a, Breuscha-Pagana) oraz autokorelację (Durbina-Watsona).
+* **Kluczowe wyniki:** Zbudowano model o bardzo wysokim dopasowaniu (R^2 = 0.997). Przeprowadzono pełną diagnostykę statystyczną, w tym testy na homoskedastyczność (White'a, Breuscha-Pagana) oraz autokorelację (Durbina-Watsona).
 
 ### 2. Prognozowanie Cen Złota (Szeregi Czasowe)
 * **Cel:** Stworzenie modelu predykcyjnego dla kwartalnych cen sprzedaży złota.
